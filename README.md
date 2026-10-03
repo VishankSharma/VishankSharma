@@ -1,57 +1,75 @@
 # Hi, I'm Vishank 👋
 
-### Full-Stack Developer | React | Node.js | Three.js
+**Full-Stack Developer building interactive web experiences.**
 
-I'm a B.Tech Computer Science student and a developer focused on
-building full-stack web applications and interactive 3D experiences.
+I build web applications with the **MERN stack** and interactive 3D experiences with **Three.js & React Three Fiber**.
 
-### 🚀 What I'm Working On
+Currently exploring **WebGL, GLSL shaders, 3D physics, and modern web development**.
 
-- Full-stack applications with MERN
-- Interactive 3D websites with Three.js & React Three Fiber
-- WebGL, GLSL & 3D graphics
-- Learning Cloud, AI/ML, Docker & CI/CD
+---
 
-### 🛠️ Tech Stack
+### What I Build
 
-**Frontend**
-- React
-- JavaScript
-- HTML
-- CSS
-- Tailwind CSS
+* 🌐 Full-stack web applications
+* 🎮 Interactive 3D experiences
+* 🚗 Physics-based 3D interactions
+* 🎨 WebGL & GLSL experiments
+* ⚡ Modern React applications
 
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
-- JWT
-- REST APIs
+---
 
-**3D / Graphics**
-- Three.js
-- React Three Fiber
-- WebGL
-- GLSL
+### Tech I Work With
 
-**Tools**
-- Git
-- GitHub
-- Docker
-- VS Code
+```text
+Frontend       React • JavaScript • Tailwind CSS
+Backend        Node.js • Express • MongoDB
+3D             Three.js • React Three Fiber • Drei
+Graphics       WebGL • GLSL • Shaders
+Tools          Git • GitHub • Docker
+```
 
-### 📌 Featured Projects
+---
 
-🚗 **3D Car Physics**
-> Interactive vehicle simulation built with React Three Fiber.
+### Featured Work
 
-🏙️ **City Issues**
-> Full-stack platform for reporting and managing civic issues.
+**🏙️ City Issues**
+Crowdsourced civic issue reporting and resolution platform.
 
-🌐 **3D Portfolio**
-> Interactive portfolio using Three.js and React Three Fiber.
+`React` `Node.js` `Express` `MongoDB` `Cloudinary` `JWT`
 
-### 📫 Connect With Me
+---
 
-- LinkedIn: https://www.linkedin.com/in/vishank-sharma-216a44250
-- Email: vishanksharma0@gmail.com
+**🚗 3D Car Physics**
+Interactive vehicle simulation with physics, wheel movement and 3D environments.
+
+`React` `React Three Fiber` `Three.js` `Physics`
+
+---
+
+**🌐 3D Portfolio**
+An interactive portfolio focused on 3D web experiences.
+
+`React` `Three.js` `R3F` `WebGL` `GLSL`
+
+---
+
+### Currently Learning
+
+```text
+Advanced Three.js
+React Three Fiber
+WebGL & GLSL
+3D Physics
+Docker & CI/CD
+Cloud / AWS
+```
+
+---
+
+### Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/vishank-sharma-216a44250) • [Email](https://vishanksharma0@gmail.com)
+
+---
+
+> Building. Experimenting. Learning.
